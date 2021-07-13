@@ -16,9 +16,13 @@ I like to dabble with various other languages on the rare occasion.
 - C
 
 ## IDE's and editors I'm familiar with:
-- Eclipse
 - VSCode (insiders)
 - Visual Studio
 - Android Studio
 - Jetbrains IntelliJ Idea
 - Atom
+
+## Current active and active-ish projects
+- Duscird-botbot (private, planning to make a public version as a complete redesign, written in GoLang)
+- Personal Folio reimagination
+- [Svelvet Desktop](https://github.com/Svelvet)
