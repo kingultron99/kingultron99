@@ -4,10 +4,21 @@
 I'm a self-taught Full-Stack web developer.
 I like to dabble with various other languages on the rare occasion.
 </p>
-<p align="center">
-Discord: king_ultron99#0647
-</p>
 
-[![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingultron99&show_icons=true&title_color=a028eb&icon_color=8420c1&bg_color=1b1b1b&text_color=e0e0e0&hide_border=true)](https://github.com/kingultron99) 
+## Languages I'm more-or-less fluent with:
+- Javascript
+- Typescript
+- Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingultron99&layout=compact&show_icons=true&title_color=a028eb&icon_color=8420c1&bg_color=1b1b1b&text_color=e0e0e0&hide_border=true)](https://github.com/kingultron99)
+## Languages that I'm learning or planning to learn:
+- GoLang
+- Java 
+- C
+
+## IDE's and editors I'm familiar with:
+- Eclipse
+- VSCode (insiders)
+- Visual Studio
+- Android Studio
+- Jetbrains IntelliJ Idea
+- Atom
