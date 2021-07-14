@@ -14,6 +14,7 @@ I like to dabble with various other languages on the rare occasion.
 - GoLang
 - Java 
 - C
+- Rust
 
 ## IDE's and editors I'm familiar with:
 - VSCode (insiders)
