@@ -24,6 +24,6 @@ I like to dabble with various other languages on the rare occasion.
 - Atom
 
 ## Current active and active-ish projects
-- Eureka (formerly "Duscird-Botbot", A complete rewrite of my Bot using GoLang and [Arikawa](https://github.com/diamondburned/arikawa))
+- Eureka (formerly "Duscird-Botbot", A complete rewrite of my Bot using [GoLang](https://golang.org) and [Arikawa](https://github.com/diamondburned/arikawa))
 - Personal Folio reimagination
 - [Svelvet Desktop](https://github.com/Svelvet)
