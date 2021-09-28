@@ -12,8 +12,7 @@ I like to dabble with various other languages on the rare occasion.
 
 ## Languages that I'm learning or planning to learn:
 - GoLang
-- Java 
-- C
+- C# (along with ASP.NET)
 - Rust
 
 ## IDE's and editors I'm familiar with:
