@@ -1,28 +1,33 @@
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
 <h1 align="center"> Hi there 👋 I'm King! </h1>
 
 <p align="center">
-I'm a self-taught Full-Stack web developer.
-I like to dabble with various other languages on the rare occasion.
+I'm a self-taught (and self-proclaimed) Full-Stack web developer.
 </p>
 
 ## Languages I'm more-or-less fluent with:
-- Javascript
-- Typescript
-- Python
+<div style="display:flex;">
+  <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+</div>
 
-## Languages that I'm learning or planning to learn:
-- GoLang
-- C# (along with ASP.NET)
-- Rust
+### Frameworks I'm capable of using:
+<div style="display:flex;">
+   <a href="https://reactjs.org"><img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+</div>
 
 ## IDE's and editors I'm familiar with:
-- VSCode (insiders)
-- Visual Studio
-- Android Studio
-- Jetbrains IntelliJ Idea
-- Atom
+<div style="display:flex;">
+   <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+   <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+</div>
 
-## Current active and active-ish projects
+## Projects
+### Currently working on:
 - GoTDC (formerly "Duscird-Botbot", A complete rewrite of my Bot using [GoLang](https://golang.org) and [Arikawa](https://github.com/diamondburned/arikawa))
 - Personal Folio reimagination
+
+### Complete:
 - [Image Downloader!](https://github.com/kingultron99/image-downloader) my first application using React, Tailwind and Electron.
