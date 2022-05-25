@@ -20,7 +20,6 @@ I'm a self-taught (and self-proclaimed) Full-Stack web developer.
 ## IDE's and editors I'm familiar with:
 <div style="display:flex;">
    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 </div>
 
