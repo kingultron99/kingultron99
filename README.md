@@ -17,6 +17,14 @@ I'm a self-taught (and self-proclaimed) Full-Stack web developer.
    <a href="https://reactjs.org"><img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 </div>
 
+## Languages I'm learning or planning to learn:
+<div style="display:flex;">
+ <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />
+ <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+ <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</div>
+
 ## IDE's and editors I'm familiar with:
 <div style="display:flex;">
    <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
