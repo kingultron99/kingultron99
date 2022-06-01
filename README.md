@@ -12,9 +12,10 @@ I'm a self-taught (and self-proclaimed) Full-Stack web developer.
   <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 </div>
 
-### Frameworks I'm capable of using:
+### Frameworks/Libraries I'm capable of using:
 <div style="display:flex;">
-   <a href="https://reactjs.org"><img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+   <a href="https://reactjs.org" target="_blank"><img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+   <a href="https://sass-lang.com" target="_blank"><img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
 </div>
 
 ## Languages I'm learning or planning to learn:
