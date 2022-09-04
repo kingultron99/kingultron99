@@ -23,7 +23,6 @@ I'm a self-taught (and self-proclaimed) Full-Stack web developer.
  <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" />
  <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
- <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ## IDE's and editors I'm familiar with:
@@ -34,12 +33,9 @@ I'm a self-taught (and self-proclaimed) Full-Stack web developer.
 
 ## Projects
 ### Currently working on:
-- GoTDC (formerly "Duscird-Botbot", A complete rewrite of my Bot using [GoLang](https://golang.org) and [Arikawa](https://github.com/diamondburned/arikawa))
+- VoxelBot: A Discord bot using [GoLang](https://golang.org) and [Arikawa](https://github.com/diamondburned/arikawa) for managing projects and other QoL stuff at VoxelCore Studios
 - Personal Folio reimagination
 
 ### Complete:
 - [Image Downloader!](https://github.com/kingultron99/image-downloader) my first application using React, Tailwind and Electron.
 - [Tutortree Challenge](https://github.com/kingultron99/tutortree-challenge) An application project for Tutortree
-
-## Noteable mentions!
-[Gophigure <img width="24" src="https://github.com/Gophigure/branding/blob/main/png/Gophigure_Icon.png?raw=true" alt="Gophigure Icon"/>](https://github.com/gophigure) A Discord bot written in go by [Sepruko](https://github.com/sepruko).<br/> Gophigure makes use of a in-house Discord library also developed by Sepruko called [Glyde](https://github.com/gophigure/glyde) (not currently available yet...).<br/> Please do check this out and praise them for their work!
