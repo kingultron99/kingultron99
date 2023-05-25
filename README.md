@@ -1,9 +1,9 @@
 # Hi there 👋 I'm King!
 
-I'm a self-taught Full-Stack web developer. Currently working as a front-end developer for [TutorTree](https://www.tutortree.com.au/)
+I'm a self-taught Full-Stack web developer. 
 
 > **Note**
-> I am not currently looking for work.
+> I am currently looking for work.
 
 ## Skills:
   <img src="https://skillicons.dev/icons?perline=6&i=js,ts,go,html,css,scss,nodejs,react,sqlite,md,vite,nodejs" />
