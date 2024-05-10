@@ -1,18 +1,25 @@
 # Hi there 👋 I'm King!
 
 I'm a self-taught Full-Stack web developer.
-I have ~6 years of hobby experience and 1 year of progessional experience.
+I have ~6 years of hobby experience and 1 year of professional experience.
 
 > **Note**
 > I am currently looking for work.
 
-## Skills:
-  <img src="https://skillicons.dev/icons?perline=6&i=js,ts,go,html,css,scss,nodejs,react,sqlite,md,vite,nodejs,redis,postgres,tailwind,nextjs,docker" />
+## Skills
+### Languages
+  <img src="https://skillicons.dev/icons?perline=6&i=js,ts,go,html,css,scss,md" />
+  
+### Runtimes & Framworks
+  <img src="https://skillicons.dev/icons?perline=6&i=nodejs,bun,react,vite,redis,tailwind,nextjs"/>
 
-### Software & services:
-   <img src="https://skillicons.dev/icons?perline=6&i=vscode,idea,blender,figma,bash,powershell,ps,ai,xd,netlify,github,git" />
+### Tooling
+  <img src="https://skillicons.dev/icons?perline=6&i=postman,docker,postgres,sqlite,git" />
 
-## Communication pathways:
-<a href="https://www.linkedin.com/in/kingultron99/" target="_blank">
+### Software & services
+  <img src="https://skillicons.dev/icons?perline=6&i=vscode,idea,blender,figma,bash,powershell,ps,ai,xd,netlify,github" />
+
+## Communication pathways
+<a href="https://www.linkedin.com/in/lochlan-maclay-6bb97920a/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
